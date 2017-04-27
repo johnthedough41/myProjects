@@ -1,2 +1,0 @@
-# myProjects
-hello world :P
